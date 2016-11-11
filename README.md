@@ -4,6 +4,6 @@
 
 Code for Amazon Alexa custom skills.
 
-<u>Greenhouse Information</u>
+<i>Greenhouse Information</i>
 
 Query Alexa for the latest temperature reading from inside or outside the greenhouse.
