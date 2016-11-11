@@ -1,0 +1,18 @@
+InsideTempIntent say inside temp
+InsideTempIntent say inside temperature
+InsideTempIntent what is the inside temp
+InsideTempIntent what is the inside temperature
+InsideTempIntent how hot is it inside the greenhouse
+InsideTempIntent what is the last inside temp reading
+InsideTempIntent what is the last inside temperature reading
+InsideTempIntent what is the latest inside temperature
+InsideTempIntent what is the latest inside temp
+OutsideTempIntent say outside temp
+OutsideTempIntent say outside temperature
+OutsideTempIntent what is the outside temp
+OutsideTempIntent what is the outside temperature
+OutsideTempIntent how hot is it outside the greenhouse
+OutsideTempIntent what is the last outside temp reading
+OutsideTempIntent what is the last outside temperature reading
+OutsideTempIntent what is the latest outside temperature
+OutsideTempIntent what is the latest outside temp

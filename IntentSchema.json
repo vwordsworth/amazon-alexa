@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "InsideTempIntent"
+    },
+    {
+      "intent": "OutsideTempIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
